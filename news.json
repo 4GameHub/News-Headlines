@@ -1,28 +1,28 @@
 {
-  "date": "16 June 2026",
+  "date": "18 June 2026",
 
   "international": [
-    "Hello, check",
-    "check2?"
+    "The whole world celebrates the NELSON MANDELA INTERNATIONAL DAY",
+    "The whole world eagerly awaits for the US-Iran formal deal scheduled tomorrow"
   ],
 
   "national": [
-    "National Headline 1",
-    "National Headline 2"
+    "Formation of Tamil Nadu state; formal functions take place",
+    "National markets rise amidst descending crude prices and Dollar-Rupee index strengthens"
   ],
 
   "state": [
-    "State Headline 1",
-    "State Headline 2"
+    "",
+    ""
   ],
 
   "district": [
-    "District Headline 1",
+    "",
     "District Headline 2"
   ],
 
   "sports": [
-    "Sports Headline 1",
-    "Sports Headline 2"
+    "Argentina dominate over Algeria in FIFA world cup 2026 with Messi's historic hat-trick",
+    ""
   ]
 }
